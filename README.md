@@ -6,7 +6,7 @@
 
 - 🥋 Praticante de Jiu-Jitsu
 
-- 🌱 Estudante Ads 3/5
+- 🌱 Estudante ADS 3/5
 
 
 <div align="center">
