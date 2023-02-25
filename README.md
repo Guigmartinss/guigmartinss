@@ -1,7 +1,14 @@
 ### Olá! Me chamo Guilherme. Sou um estudante de análise e desenvolvimento de sistemas buscando aprimorar minhas habilidades em programação e desenvolvimento de software. Estou animado para compartilhar meus projetos com a comunidade do GitHub e contribuir para projetos de código aberto. Se estiver interessado em trabalhar comigo, sinta-se à vontade para me enviar uma mensagem ou abrir um problema em qualquer um dos meus repositórios.
 
+
+▶️Atualmente aprendendo sobre HTML,CSS e JAVASCRIPT
+
+🔭Atualmente estou aberto para trabalhar!
+
+⚡Curiosidades: 
+
 - 🥋 Praticante de Jiu-Jitsu
-- 🔭 Apaixonado por tecnologia
+
 - 🌱 Estudante Ads 3/5
 
 
