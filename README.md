@@ -1,14 +1,34 @@
-Olá a todos,
+### Olá! Eu sou o Guilherme Martins
 
-Meu nome é Guilherme Martins, e sou um estudante entusiasmado de análise e desenvolvimento de sistemas que está buscando aprimorar minhas habilidades em programação e desenvolvimento de software. Apesar de ter pouca experiência, estou animado para compartilhar meus projetos com a comunidade do GitHub e contribuir para projetos de código aberto.
-
-Durante meus estudos, tenho me dedicado a aprender e desenvolver minhas habilidades em [HTML,CSS E JAVASCRIPT], e tenho participado de projetos acadêmicos e pessoais para melhorar meu conhecimento e experiência. Embora ainda esteja em busca de minha primeira oportunidade profissional, estou confiante em minhas habilidades e ansioso para continuar aprendendo.
-
-Estou ansioso para colaborar com outros desenvolvedores e aprender com suas experiências. Se você estiver interessado em trabalhar comigo em algum projeto emocionante, sinta-se à vontade para me enviar uma mensagem ou abrir um problema em qualquer um dos meus repositórios.
-
-Agradeço a você por visitar meu perfil, e espero ter a oportunidade de colaborar com você em algum projeto em breve.
+- 🥋 Praticante de Jiu-Jitsu
+- 🔭 Apaixonado por tecnologia
+- 🌱 Estudante Ads 3/5
 
 
+<div align="center">
+  <a href="https://github.com/guigmartinss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigmartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigmartinss&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+  <div align="center">
 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
+  <div align="center">
+    <a href="https://www.instagram.com/guigmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gomes-martins-823652a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="guigmartins.gm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+  <div align="center">
+
+ 
